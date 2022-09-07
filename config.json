@@ -1,8 +1,8 @@
 {
-    "ownerNumber": "6282239202895@s.whatsapp.net", 
-    "ownerName": "Alwi Xwan", 
-    "botName": "Xwan-Botz",
-    "footer": "© Xwan | 2022", 
+    "ownerNumber": "6285822347348@s.whatsapp.net", 
+    "ownerName": "Arull", 
+    "botName": "Paray-Botz",
+    "footer": "© ParayBotz | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
@@ -11,7 +11,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Xwan",
-        "author": "By Alwi Xwan"
+        "packname": "© Paray-Botz",
+        "author": "By Arull"
     }
 }
